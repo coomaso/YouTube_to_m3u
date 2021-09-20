@@ -1,15 +1,4 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
-#########################################################################
-#      ____            _           _   __  __                           #
-#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
-#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
-#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
-#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
-#                   |__/                                                #
-#                                  >> https://github.com/benmoose39     #
-#########################################################################
-
-
 #EXTINF:-1 group-title="Usa" tvg-logo="https://i.ytimg.com/vi/EEIk7gwjgIM/hqdefault_live.jpg" tvg-id="", NASA live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1632129669/ei/Jf5HYdTSKceX6QLo67bgCw/ip/40.122.202.68/id/EEIk7gwjgIM.25/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgcb3NArqQKhmHdX49RSLxrwzqB4dwB58HgvsX5bPZWokCIQDCWBMmupfb1uaBFMlxDbloXwGf1zWOQVNrPkzaNszdxQ%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1632129787/ei/mv5HYe-SO7HAiwSchrjgBw/ip/70.37.75.14/id/EEIk7gwjgIM.25/source/yt_live_broadcast/requiressl/yes/tx/23997970/txs/23997970%2C24008108/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgC2eKKpbaNs4ENr7WQsIkZHoG1PEiVtfKvVdeDRVVw2oCIFJUldJFfJmrZVZz71GNUPZZPcgZMo7gzybzbM2BpB5b/file/index.m3u8

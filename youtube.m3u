@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="France News" tvg-logo="" tvg-id="", CNA新加坡
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740107977/ei/aZy3Z9SYKoyCkucPic25qAY/ip/20.57.79.189/id/XWq5kBlakcQ.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51388542/txs/51388542%2C51388543%2C51388544%2C51388545/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3yXw-sf5-m-42TRE6zPW3ir_aXh3mVeYDNYm5oeH-eKab-jIPgMDBJMxP0fX1vG7JFE93cun2Ua/spc/RjZbSXr8vL3YcD8GGgjF8kMAlFfEQOG2H_WZd-_u61X4jbs9c-9tlQ9nHrQ9kns/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912%2C51387515/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPuD145PCrae4ideV8Fl8SxuAJQYZIEXAVfqKK0gpuzMAiB-G6GZo6owjEZ4kG9rXiZaaTtFG1HTB3oAGXsGzGwmTw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="France News" tvg-logo="" tvg-id="", 92 News巴基斯坦
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u

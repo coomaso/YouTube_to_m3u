@@ -145,7 +145,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" tvg-id="", Euronews Albania
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742765001/ei/aSfgZ9zuJKmpsfIP9LvH-Ak/ip/20.172.4.7/id/AQtj47nB-v4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcP7VApip5XLYBIbeP9HhaAFIGvAggb1-pGbyJeQvQxCqk5Ro9Ryuoz1u2YugEfNEwemY_txzQna/spc/_S3wKvwErkUXwcU_jjTpPmIpje3pNZGEmICxtXd5_KguuO3rxBqshAcR3Sk6TjQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgb_ZSGuVDyz8j8z-S3xwbpvzSOo6_nlzFvqevSw3Tw2YCIFGyfv3Ft1ueXbQUvj7QTVwG1vVFumLI-_Pxt0H3t2BJ/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", Insomniac
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
